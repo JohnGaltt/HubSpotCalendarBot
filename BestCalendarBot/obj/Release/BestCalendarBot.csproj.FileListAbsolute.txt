@@ -1,0 +1,43 @@
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Bot Application.dll.config
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Bot Application.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Bot Application.pdb
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Autofac.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\BotCalendar.exe
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Chronic.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Newtonsoft.Json.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.Net.Http.Formatting.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.Web.Http.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.Web.Http.WebHost.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\BotCalendar.pdb
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\BotCalendar.exe.config
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Autofac.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\Newtonsoft.Json.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.Net.Http.Formatting.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.Web.Http.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\System.Web.Http.WebHost.xml
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\obj\Release\BestCalendarBot.csprojResolveAssemblyReference.cache
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\obj\Release\Bot Application.dll
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BestCalendarBot\obj\Release\Bot Application.pdb

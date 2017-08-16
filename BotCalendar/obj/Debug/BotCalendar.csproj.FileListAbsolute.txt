@@ -1,0 +1,6 @@
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BotCalendar\obj\Debug\BotCalendar.csprojResolveAssemblyReference.cache
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BotCalendar\bin\Debug\BotCalendar.exe.config
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BotCalendar\bin\Debug\BotCalendar.exe
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BotCalendar\bin\Debug\BotCalendar.pdb
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BotCalendar\obj\Debug\BotCalendar.exe
+C:\Users\fight\Desktop\studing progrming\BestCalendarBot\BotCalendar\obj\Debug\BotCalendar.pdb
