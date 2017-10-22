@@ -5,26 +5,20 @@ using System.Data.SqlClient;
 
 namespace BotCalendar
 {
-    public class Shedule
-    {
-        public int ID { get; set; }
-        public DateTime Date { get; set; }
-        public string Decription { get; set; }
-    }
 
     public class Calendar
     {
         public Calendar() { }
 
-        public List<Shedule> shedulelist = new List<Shedule>();
+        private List<Shedule> shedulelist = new List<Shedule>();
 
-        public static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\fight\Documents\CalendarDataBase.mdf;Integrated Security=True;Connect Timeout=30";
+        private static string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\fight\Documents\CalendarDataBase.mdf;Integrated Security=True;Connect Timeout=30";
 
-        public static string selectcommand = @"SELECT * FROM CalendarDB";
+        private static string selectcommand = @"SELECT * FROM CalendarDB";
 
-        public SqlConnection connection = new SqlConnection(connectionString);
+        private SqlConnection connection = new SqlConnection(connectionString);
 
-        public SqlCommand command;
+        private SqlCommand command;
 
         public Shedule[] GetEvent()
         {
@@ -58,7 +52,7 @@ namespace BotCalendar
             {
                 connection.Close();
             }
-            return shedulelist.ToArray();
+            return shedulelist.toList();
         }
 
         public void AddShedule(DateTime insertdate,string description)
@@ -97,7 +91,5 @@ namespace BotCalendar
 
             finally { connection.Close(); }
         }
-        
-        static void Main() { }
     }
 }
