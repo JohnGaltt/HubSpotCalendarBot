@@ -8,6 +8,7 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>BotCalendar</RootNamespace>
     <AssemblyName>BotCalendar</AssemblyName>
+    some sstring
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
